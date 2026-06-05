@@ -48,13 +48,13 @@ To learn more about developing your project with Expo, look at the following res
 - [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
 - [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
 
+
+
+## Release
+- [download](https://drive.google.com/file/d/1TYEepwxFWjbaCviMUjT6iATqQmla6H53/view?usp=sharing):download and install it 
+
 ## Join the community
 
 Join our community of developers creating universal apps.
-
-## Release
-- [Expo on GitHub](https://drive.google.com/file/d/1TYEepwxFWjbaCviMUjT6iATqQmla6H53/view?usp=sharing): View our open source platform and contribute.
-
-
 - [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
 - [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
