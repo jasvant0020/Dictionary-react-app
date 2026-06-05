@@ -51,7 +51,7 @@ To learn more about developing your project with Expo, look at the following res
 
 
 ## Release
-- [download](https://drive.google.com/file/d/1TYEepwxFWjbaCviMUjT6iATqQmla6H53/view?usp=sharing):download and install it 
+- [download](https://drive.google.com/file/d/1TYEepwxFWjbaCviMUjT6iATqQmla6H53/view?usp=sharing) and install it 
 
 ## Join the community
 
